@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 3 things to be learn this time
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
