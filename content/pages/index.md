@@ -111,7 +111,7 @@ sections:
     title: Latest Posts
   - section_id: faqes
     title: Generally Asked Question
-    subtitle: lorem-ipsum
+    subtitle: this is thie question?
     background: gray
     faq_items: []
     type: section_faq
