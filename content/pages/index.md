@@ -117,7 +117,7 @@ sections:
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
+        answer: >
           ## Lorem ipsum
 
 
@@ -125,9 +125,13 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
+
+          *   point 3
+
+          *   ponit 4
         type: faq_item
     type: section_faq
 seo:
