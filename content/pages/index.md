@@ -8,7 +8,7 @@ sections:
     title: This Is A Hero Heading
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      who need a sleek, modern SaaS site. then this is the 
     actions:
       - label: Learn More
         url: /features
