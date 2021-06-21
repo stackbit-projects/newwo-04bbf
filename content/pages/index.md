@@ -17,7 +17,7 @@ sections:
         url: lorem-ipsum
         style: secondary
         has_icon: false
-        icon: arrow-left
+        icon: envelope
         icon_position: left
         new_window: false
         no_follow: false
