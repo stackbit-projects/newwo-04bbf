@@ -26,7 +26,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Lorem32
+    subtitle: Lorem this is the protect the flow the show grow is bdui qomsj
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
