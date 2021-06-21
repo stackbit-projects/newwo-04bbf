@@ -112,7 +112,7 @@ sections:
   - section_id: faqes
     title: Generally Asked Question
     subtitle: this is thie question?
-    background: gray
+    background: white
     faq_items: []
     type: section_faq
 seo:
