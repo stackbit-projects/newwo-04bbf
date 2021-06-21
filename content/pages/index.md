@@ -109,7 +109,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: Gene
+  - section_id: Genrally Asked Question
     title: Site FAQ
     subtitle: lorem-ipsum
     background: gray
