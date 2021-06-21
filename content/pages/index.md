@@ -110,7 +110,7 @@ sections:
     background: gray
     title: Latest Posts
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Site FAQ
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
