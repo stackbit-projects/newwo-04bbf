@@ -21,7 +21,7 @@ export default class SectionFeatures extends React.Component {
                         </div>
                     )}
                     <div className="cell block-content">
-                        <h3 className="block-title underline" style={{marginTop : '80px'}}>{title}</h3>
+                        <h3 className="block-title underline" style={{color : '80px'}}>{title}</h3>
                         <div className="block-copy">{markdownify(content)}</div>
                         {actions && (
                             <div className="block-buttons">
