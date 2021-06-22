@@ -15,7 +15,7 @@ export default class SectionHero extends React.Component {
         const actions = _.get(section, 'actions');
 
         return (
-            <section style="color:#4a54f1; padding-top:100px;" id={sectionId} className="block hero-block bg-accent outer">
+            <section id={sectionId} className="block hero-block bg-accent outer">
                 <div className="inner">
                     <div className="grid">
                         {image && (
