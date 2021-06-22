@@ -20,7 +20,7 @@ export default class SectionHero extends React.Component {
                     <div className="grid">
                         {image && (
                             <div className="cell block-preview">
-                                <img src={withPrefix(image)} alt={imageAlt} style="border-radius: 10px"/>
+                                <img src={withPrefix(image)} alt={imageAlt} style="border-radius:10px"/>
                             </div>
                         )}
                         <div className="cell block-content">
